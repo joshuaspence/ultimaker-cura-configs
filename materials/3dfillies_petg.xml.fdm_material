@@ -19,7 +19,7 @@
   </properties>
   <settings>
     <setting key="heated bed temperature">70</setting>
-    <setting key="print temperature">215</setting>
+    <setting key="print temperature">210</setting>
     <setting key="standby temperature">120</setting>
   </settings>
 </fdmmaterial>
