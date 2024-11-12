@@ -7,9 +7,7 @@
       <color>Generic</color>
       <label>PLA+</label>
     </name>
-    <adhesion_info/>
     <color_code>#ffc924</color_code>
-    <description/>
     <GUID>0ff92885-617b-4144-a03c-9989872454bc</GUID>
     <reference_material_id>pla</reference_material_id>
     <version>12</version>
