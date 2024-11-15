@@ -1,30 +1,30 @@
 {
-    "dismissed": [],
-    "installed": {
-        "AutoTowersGenerator": {
-            "filename": "/home/josh/.cache/cura/5.8/cura_packages/AutoTowersGenerator.curapackage",
-            "package_info": {
-                "author": {
-                    "author_id": "Kartchnb",
-                    "display_name": "Brad Kartchner",
-                    "email": "kartchnb@gmail.com",
-                    "website": "https://github.com/kartchnb"
-                },
-                "description": "Allows you to quickly and easily print several types of calibration towers without messing around with gcode or post-processing -  Just click and print!\n\nMany pre-generated towers are included in the plugin, but, if OpenSCAD is installed (openscad.org), custom towers can be generated and printed with very little effort.",
-                "display_name": "AutoTowers Generator",
-                "is_active": true,
-                "is_bundled": false,
-                "is_installed": true,
-                "package_id": "AutoTowersGenerator",
-                "package_type": "plugin",
-                "package_version": "2.6.0",
-                "sdk_version": 8,
-                "sdk_version_semver": "8.2.0",
-                "website": "https://github.com/kartchnb/AutoTowersGenerator"
-            }
-        }
-    },
-    "to_install": {},
-    "to_remove": [],
-    "version": 1
+  "dismissed": [],
+  "installed": {
+    "AutoTowersGenerator": {
+      "filename": "/home/josh/.cache/cura/5.8/cura_packages/AutoTowersGenerator.curapackage",
+      "package_info": {
+        "author": {
+          "author_id": "Kartchnb",
+          "display_name": "Brad Kartchner",
+          "email": "kartchnb@gmail.com",
+          "website": "https://github.com/kartchnb"
+        },
+        "description": "Allows you to quickly and easily print several types of calibration towers without messing around with gcode or post-processing -  Just click and print!\n\nMany pre-generated towers are included in the plugin, but, if OpenSCAD is installed (openscad.org), custom towers can be generated and printed with very little effort.",
+        "display_name": "AutoTowers Generator",
+        "is_active": true,
+        "is_bundled": false,
+        "is_installed": true,
+        "package_id": "AutoTowersGenerator",
+        "package_type": "plugin",
+        "package_version": "2.6.0",
+        "sdk_version": 8,
+        "sdk_version_semver": "8.2.0",
+        "website": "https://github.com/kartchnb/AutoTowersGenerator"
+      }
+    }
+  },
+  "to_install": {},
+  "to_remove": [],
+  "version": 1
 }
